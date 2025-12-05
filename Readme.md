@@ -77,7 +77,7 @@ Empty tag has
 <head> </head>      <!-- Stores page information (not visible on screen) -->
 <body> </body>      <!-- Contains everything that is visible on the webpage -->
 <title> </title>    <!-- Sets the browser tab title -->
-<style> </style>    <!-- Used to write internel CSS inside the HTML file -->
+<style type="text/css"> </style>    <!-- Used to write internel CSS inside the HTML file -->
 <script> </script>  <!-- Connection between javascript and html file -->
 <link>              <!-- Links external files -->
 <meta>              <!-- Provides metadata information about the webpage -->
